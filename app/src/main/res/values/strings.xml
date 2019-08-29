@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A1_Apputv</string>
+    <string name="btn_roll_dice">Roll Dice</string>
+    <string name="btn_reset">Reset Game</string>
+    <string name="txt_score">Score:</string>
+    <string name="txt_round">Round:</string>
+</resources>
